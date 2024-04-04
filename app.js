@@ -25,7 +25,7 @@
 // let length = Object.keys(student).length;
 // console.log(length);
 
-// masala10
+// masala11
 // const car = {
 // 	rusumi: 'nexia 3',
 // 	rangi: 'Mokry',
